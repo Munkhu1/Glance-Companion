@@ -1,4 +1,4 @@
-# Android-Media-Control-for-ER
-Android Media Control for Even Realities.
+# Glance-Companion
+Companion app for Even Realities plugin **Glance Media**.
 
 ## Hello!
